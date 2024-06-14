@@ -4,12 +4,17 @@
 `create_readme.php` is a PHP script that allows you to dynamically create a `README.md` file based on a template. This script provides flexibility by letting you specify the directory where the `README.md` file should be created.
 
 ## Table of Contents
-
+- [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
+
+### Requirements
+
+- PHP (version 5.4 or higher recommended)
+- Permission to create directories and files where specified
 
 ## Installation
 
