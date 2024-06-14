@@ -18,7 +18,7 @@ To use `create_readme.php`, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Nada-TB/readme-creator-php-script.git
    ```
 
 2. **Navigate to the directory:**
